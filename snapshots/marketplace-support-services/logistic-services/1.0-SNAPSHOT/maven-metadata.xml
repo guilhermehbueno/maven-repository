@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>marketplace-support-services</groupId>
+  <artifactId>logistic-services</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20151217.110218</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20151217110218</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20151217.110218-2</value>
+        <updated>20151217110218</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20151217.110218-2</value>
+        <updated>20151217110218</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

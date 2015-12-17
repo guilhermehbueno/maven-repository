@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>marketplace-support-services</groupId>
+  <artifactId>marketplace-support-services</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151217110216</lastUpdated>
+  </versioning>
+</metadata>
